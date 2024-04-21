@@ -1,7 +1,7 @@
 Item_ID,Item_Name,Category,Date,Last_Month_Sales,Capacity,Last_Year_Sales,Temperature,Weather,Predicted_sales
 13,Peach,Fruits,12-21-2019,82,109,77,33,Autumn,81
 15,Lemon,Fruits,9-29-2023,71,99,68,32,Winter,68
-11,Cherry,Fruits,11-04-2022,71,99,68,38,Sunny,70
+11,Cherries,Fruits,11-04-2022,71,99,68,38,Sunny,70
 27,Potato,Vegetables,02-07-2021,82,109,77,48,Autumn,78
 40,Green Bean,Vegetables,09-11-2021,82,109,77,36,Autumn,78
 42,Celery,Vegetables,3-22-2022,82,109,77,50,Rainy,81
